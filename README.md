@@ -6,6 +6,7 @@
 
 # GSMACRO⚡ 1.2.0
 La mejor app de macro-manager para aplicaciónes/juegos en general.
+https://github.com/else-wt/GSmacro-recorder
 
 
 <!---
